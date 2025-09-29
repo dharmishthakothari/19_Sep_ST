@@ -1,0 +1,121 @@
+19th Sep 
+
+	Software ? 
+			System  , application , web application ,android application , web site
+			e.g  SAP , Tally , outlook , gmail, flipcart , amazone , whataspp , careercenter , notpad ,,alarm , 
+	
+	set of program , perticular task/purpose 
+	
+	How software are developed ?
+		language/coding , discussion , requirements , UI/UX , time ,
+
+	SDLC - Software Development Life Cycle 
+		1. Requirements 
+		2. Analysis
+		3. Desgining
+		4. Implementaion/Coding
+		5. Testing
+		6. Mantainance
+
+22th Sep
+	1. Requirements -->  client gives us requirements . 
+				e.g student , faculty , admin ,
+					registration , login ,reports 
+					student - attendance , result 
+	2. Analysis --> each requirement is analysed 
+				registration - fileds , who , 
+				atatndance - login must be there , registrater 
+			system flow , connectivity 
+	3. Designing ---> looks , how it looks , UI/UX 
+				pages/form desining 
+	4. implementation --> coding ,logic are developed 
+	5. Testing --> 	Accouring to requirements application working or not,
+			To verify , validate
+	6. Maintainance --> change ,update , new functionality 
+				longest phares of life cycle
+	
+	SLDC Models 
+			1. Sequential Model - Waterfall model , V Model 
+			2. Iterative Model - Agile Model , Spiral Model , Incremental Model	
+
+		
+	Waterfall Model --> each pahare are in sequnece .And you can not go back .
+				Requirements are fixed /Project is small /
+	
+	V Model ---> verification/Validation model 
+			1. Business Requirements - client will gives us 
+			2. System requirements - system requirements 
+			3. Technical Specification/High Level - Overall structure of applcation
+			4. Program specification/Low level - percular modul;e/program requirement/design 	
+			Coding - Actual implentations  , connecting 
+
+			Unit Test - Program/module/unit testing,Testing of percular program/module/unit/coponenet
+			2. Interation Test - when 2 modules are connected and testing to gether 
+			3. System test - To test as whole system with hardwares/network 
+			4. Acceptance test - when client check requiremetns are fulfilled or not
+
+		Verfication/Validation 
+		
+26th Sep 
+	 - Models 
+		Spiral model
+		V model
+		Waterfall
+		Interative and incremental model
+		Agile model 
+		
+
+29th Sep
+	- SRS Document ?
+			Software Requirement Specification
+			Generalize document which is used by all stackholders (Desginer , developer , tester )
+			Project details 
+			Manager - Team Leader - 
+
+			This e-commerce website will allow users to browse products, 			add them to a cart, and purchase them via secure payment methods. It will also include an admin panel for managing products, users, and orders.
+
+			Online website
+			payment method
+			Product Browsing/search
+			Add to cart
+			Admin 
+				product manage (create-update - delete)
+				User 
+				Order
+		
+			
+			Functional Requirements --- i) Order Management (add-update-delete-track)
+			ii) Registration & Login user 
+			iii) Add to cart
+			
+			Non-Functional Requirements 
+			i) Easy to Use
+			ii) Responce time
+			iii) Performance 
+			iv) load 
+			v ) Compatible
+
+			Which requirement is more important ?
+			Both are equally important 
+
+		
+			Fields of SRS --- scope , details of requirments , functional - non functional , technology 
+
+	Lab task --> SRS of any social media 
+	
+--> Usecase diagram  -- mapping user with  activity
+			admin can update order
+			admin manage product
+			user can track order
+
+	Lab task --> use case doagram for Social Media
+	
+	Software Architechture ?
+		
+		
+		
+			
+
+		
+	
+		
