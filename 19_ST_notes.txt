@@ -111,9 +111,209 @@
 	Lab task --> use case doagram for Social Media
 	
 	Software Architechture ?
+
+1st Oct
+
+SRS document   --- Detailed of projects purpose,scope,tech stack, functional , non functional ,module description , use classes
+
+usecase  diagram --mapping user to activity ,which activity done by whom
+			Actors --Librarian , student ,visitor 
+			Activies -- book issue , search books , return book , update book , 
+
+
+Software Architecture  -- Overall porject structure 
+			Librarian 		Student
+			Book Issues		Browse Book
+			Book Return 		issue Book
+			Fine	
+
+What is Testing  ???
+ 		actual vs expected result
+		client requirement meet , all functionalties are working fine
 		
+		--evaluating & verifying process
+		 involes executing software intent to find bugs 
+		covers functional and non functional requirements
 		
+
+Testing Objectives ?
+		product works ,
+		error free product
 		
+		finding error
+		Prevention error
+		fulfill requirement
+		improve quality
+		user satishfaction
+
+When we can start ? 
+	Testing should be start as early as possible
+	when we got the requirement --- Test planing , test case design , static testing (without executing software - review of document)
+
+
+When to stop ?
+	Testing is never ending process 
+
+Testing principle ---? Rules 
+	1. Absence of erro fallacy (Software have no defect but not fulflling requirement )
+	2. Exhasting testing ( mobile no -- 5/7/10/20 each and every combination is not possible to test -use risk and priority based testing)
+	3. Testing shows presence of defect ( 
+	4. Defect Clustering (Small module may have more defect )
+	5. Early Testing 
+	6.pastiside paradox  ( Review and Revised test cases)
+	7. Testing is context dependent (Banking/Social Media should be test differently)
+	
+3rd Oct
+	What is ST?
+	When to start?
+	When to Stop?
+	Principles ...
+	
+	-- Verify evaluating defect of product/software for given requirment
+	--Working of software 
+	Functional and non functional ---> What system does - functionality/features of application
+					NF - How system does	- other then functionality like perforamnce,load,strees , compatiblity ,usability
+
+	When to start/stop? As early as possible when we get requuirremnt
+				meet deadline,exit creitera,test coverage , defect fix, buisness dicision
+		
+	Priciple - 
+		early testing
+		Testing context dependent
+		error falacy
+		Pastiside paradox
+		Defect clusting
+		Testing shows presence of defect
+		Exhausting Testing
+
+	Why Testing?
+		Quality
+		To completeness and correctness
+		
+
+Lab task : Find real scenario where software testing fails
+		
+	High Level Requirement ---> 
+		E-Commerce Software : - 
+			Products  - category , filters 
+			Browse
+			Search by ...
+			Add to cart
+			Payment - CC,DC,UPI,COD
+			Assistance to Customer
+			Exchange and return
+			Checkout
+			View Similar product
+			Wish list
+			Festival season-offers
+		
+		banking Application :-
+			User friendly
+			Security
+			Payment - 
+			Integration - Works with other , connect paytm
+			Loan application
+			CC,DC management
+			Statements 
+			Compilance and govrnemnt 
+			
+	lab task :	Practical
+			HLR - Ecommerce 
+			    - Social media
+			    - Libary 
+			    - tops Careercenter
+			git hub
+				cloud 
+				code-file
+				repository
+			
+			 Check Login with valid data  -positive
+			Check Login with invalid data - Nagative testing
+			
+			
+6th Oct : 
+						
+	when to start?When to stop?
+	practical - HLR - High Level requirement 
+	Due to ST which are real applccation 
+	2014 - flipcart -sale-site crash , mytra , 2023 sine ,
+	
+	OOPS - 
+		procedure oriented  - procedure/function (c)
+		Object oriented  - object (java,python ,c++)
+
+		1. class 	-	Blueprint / collection of object / real entity /state-behaviour/data members-member function
+					Human is class , hands,legs,eyes...speak-eat-listen 
+					Car is class , color,price,engine...drive
+ 
+		2. object	-	real entity , it is type of class
+					dharmishtha is Human 
+					Vishant is Human 
+					Baleno is Car
+					Creta is Car
+
+		3. Inheritance	-	Parent - child Property of one class can use property of another classs
+					Person - name,age,address ....getDetails,display
+					Employee - name,age,address,id,salary,department
+					Person in employee class - reusablity 
+					Employee is Person
+					
+					Vehical - type,c_name,price,engine,color - details
+					Car - type,c_name,price,engine , wheels 
+					Scooter - type,c_name,price,engine
+	 				
+					Car is Vehical
+					schooter is Vehical 
+
+
+		4. Polymorphisum
+					Ability to take more then one form - many form 
+					Maitri is student,daughter,employee
+					addition is of 2 numbers , 3 numbers n numbers , numeric , decmial 
+
+				
+		5. Encapsulation	wraping of data and functions to gather into single unit (class)
+					data private ,methods public 			
+
+		6. Abstraction    showing essentials,hiding other details 
+					SBI - interest 
+						balance how internally works .
+				
+
+SQL		practise - tables , data store , Structure Query Language , Manipulations of data
+		Database testing 
+		
+		Database ? To store data -Manipulation 
+		DBMS - Database management System  - to manage your data -manipulate - thru sql 
+		RDBMS - Relation DBMS - tables are related 
+		Tools - RDBMS - eg -  MySQL , ms-access , SQL server , 	
+			MySQL - opensource  -command base 
+					 - workbanch
+
+		SQL - 4 types 
+			DDL - Data Definition Langauge (create , alter ,drop)
+			DML - Data Manipulation Lanagauge (insert , update,delete)
+			DQL - Data Query Langauge (select)	
+			DCL - Data Control Lanaguage (grant - revoke)
+			
+			Constrints  - Primary key
+					Forighn key
+					Not null
+					deafault
+					check
+
+
+
+
+
+
+2 Module - Manual Testing 
+	
+	
+		
+
+		
+	
 			
 
 		
