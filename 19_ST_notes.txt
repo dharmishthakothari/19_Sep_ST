@@ -302,6 +302,28 @@ SQL		practise - tables , data store , Structure Query Language , Manipulations o
 					deafault
 					check
 
+10th Oct 
+
+1.		create database database_name
+2. 		use database_name
+		DDL 
+3. 		create table table_name(column datatype size , column datatye size ....)
+4. 		alter table table_name add city varchar(20)
+5. 		alter table table_name drop email
+
+Person (pid,pname,email,address,cno)
+
+DML - Manipulation
+Data related 
+1. insert --- insert into table_name(pid,pname,address,email) values(12,'test','cg road','wert@gmail.com')
+2. update 
+3. delete 
+
+
+
+
+
+
 
 
 
@@ -318,4 +340,5 @@ SQL		practise - tables , data store , Structure Query Language , Manipulations o
 
 		
 	
+
 		
