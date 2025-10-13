@@ -316,9 +316,40 @@ Person (pid,pname,email,address,cno)
 DML - Manipulation
 Data related 
 1. insert --- insert into table_name(pid,pname,address,email) values(12,'test','cg road','wert@gmail.com')
-2. update 
-3. delete 
 
+13th Oct 
+
+2. update -- update <<tablename>> set <<column_name>> value where condition
+3. delete -- delete from <<tablename>> where condition
+
+
+Constrints  - 	Boundry/ Limitation 
+					
+					Primary key - To uniquly identify record 
+					Forighn key - refeerences to another table/data 
+								Form Result of student 
+								Result_table : (roll_no , name , percentage , gender , phone_no , email_id , address ,
+												pass/Fail , school_name , grade ,)	
+
+					Employee_master - eid (PK) , ename , salary , address ,age , did(FK)
+					Department_master - did (PK), dname ,location
+									
+	
+
+					Not null - column value must be there 
+					deafault - default value
+					check - to check condition 
+					unique key - To uniquely indentify record , 
+								PK vs UK
+								table have one PK , UK may be more
+								PK doesn't allow null , UK one NULL value is allowed 
+
+
+			Lab task : 1. Departmet Table 5 records
+						Employee table 15 records 
+					2.	Customer (cid Primary Key , cname , bdate , c_no,email   - 10 records 
+						Product (pid Primary Key , pname , price , pdiscrption) - 10  records 
+						Orders (oid Primary Key , cid Foreign key , pid Foreign key , qty , order_date ) - 30 records 
 
 
 
@@ -342,3 +373,4 @@ Data related
 	
 
 		
+
