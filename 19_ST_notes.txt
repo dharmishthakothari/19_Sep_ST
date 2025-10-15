@@ -351,7 +351,51 @@ Constrints  - 	Boundry/ Limitation
 						Product (pid Primary Key , pname , price , pdiscrption) - 10  records 
 						Orders (oid Primary Key , cid Foreign key , pid Foreign key , qty , order_date ) - 30 records 
 
+15th oct
+	Primary - Foreighn key ?
 
+one department have many employees 
+one product orderd by many customers
+one course enroll by many students					1. Software Testing			-	15 enroll
+													2. Data Analytics				-	20 enroll
+													3. Content Writing				-	5  enroll
+													4. System Admin				-	5 enroll
+
+
+CourseMaster ---> cid, cname , duration , fees , desciprtion 
+Studentmaster ---> sid , sname , c_no , bdate , address ,job_profile , year_of_passing
+					1  Vishant 343434  1990-09-09 parimal QA 2012
+					2 dharmishtha 435345  1990-04-09 CGRoad BCome 2010 	
+
+
+student_enroll_course -- > enroll_id , sid , cid ,date_of_enquiry , communication 
+							101			1    1    2025-9-20 		he uis intereested and want timing morning only 
+							102			1	 2    2025-09-25 		he is confues to select the course , and we guided to enroll for ST as already working in that 
+							103			2	3	
+
+eventmaster -->event_id , even_name , 				duration ,		start_date 
+				101			Diwali celebration			2			20th Oct
+				102			Box Cricket					1			22nd Oct
+
+student_enroll_even --> enroll_id, sid , event_id ,  
+						1001		2		101
+						1002		1		102	
+
+
+
+DML - insert , update ,delete
+
+update employee set address="South Bopal" where eid=5
+
+delete from employee where eid=2
+
+DQL - Select Query 
+
+
+
+
+
+	
 
 
 
@@ -373,4 +417,5 @@ Constrints  - 	Boundry/ Limitation
 	
 
 		
+
 
