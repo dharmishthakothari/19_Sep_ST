@@ -38,9 +38,23 @@
 select * from student
 
 					
+-- 15th Oct
+
+insert into department_master values
+(1001,"HR"),
+(1002,"Sales"),
+(1003,"Finance"),
+(1004,"IT"),
+(1005,"Marketing")
+
+
+insert into employee(ename,address,c_no,city,age,did) values ("Vikas","Bopal",88888,"Baroda",25,1001) ,
+															 ("dharti","SG Highway",777777,"Ahemedabad",30,1003),
+                                                             ("Suraj","GN",5456,"Gandhinagar",25,1002)
+                                                             
 
 
 
 
-
+update employee set address="South Bopal" where eid=5
                  
