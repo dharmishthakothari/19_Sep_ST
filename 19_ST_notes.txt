@@ -389,8 +389,21 @@ update employee set address="South Bopal" where eid=5
 
 delete from employee where eid=2
 
-DQL - Select Query 
+DQL - Select Query - filter - doesn't affect data 
 
+Clause - where ,and-or ,between - and , in , is not ,order by ,like , group by 
+- fetch those students who got more then 50 percentent 
+- fetch those students who are living in Ahmedabad , delhi
+- fetch those students who are living in baroda and got more then 70 perncet 
+- fetch those students who are living in broda or got more then 70 percent 
+
+% wild card letter to check for multiple letters
+_ wild card letter to check for single letter
+
+group by employee - department - perticular department have how many employees
+								 check salary by department wise 
+								max salary 
+								join 2 tables 
 
 
 
@@ -417,5 +430,6 @@ DQL - Select Query
 	
 
 		
+
 
 
