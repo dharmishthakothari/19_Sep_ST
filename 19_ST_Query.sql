@@ -57,4 +57,64 @@ insert into employee(ename,address,c_no,city,age,did) values ("Vikas","Bopal",88
 
 
 update employee set address="South Bopal" where eid=5
-                 
+
+select * from student where percen>90.00;
+
+select * from student where address='Ahmedabad';
+
+select * from student where address in('Ahmedabad','Delhi','Baroda');
+
+select * from student where address = 'Baroda' and percen>70;
+
+select * from student where address = 'Baroda' or percen>70;
+
+select roll_no,fname from student;
+
+select roll_no,fname as 'First Name' from student;
+
+select * from student where roll_no between 400 and 700;
+
+select * from student where fname is null;
+
+select * from student order by address;
+
+select * from student order by address desc;
+
+select * from student order by address,fname;
+
+select * from student where college_name like 'p%';
+
+select * from student where college_name like '______University';
+
+create table department (dept_id int primary key,dept_name varchar(20));
+
+create table employee (emp_id int primary key,ename varchar(20),city varchar(20),salary int, dept_id int,
+                      foreign key (dept_id) references department(dept_id)
+                      );
+
+insert into department values
+(1001,"HR"),
+(1002,"Sales"),
+(1003,"Finance"),
+(1004,"IT"),
+(1005,"Marketing");
+
+
+insert into employee values (1,"Vikas Bopal","Baroda",234589,1001) ,
+                            (2,"Rohit","Delhi",23412,1002),
+                            (3,"Surya","Baroda",78906,1002),
+                            (4,"Dhoni","Surat",67890,1003),
+                            (5,"Raj","Ahmeabad",52345,1004),
+                            (6,"Ritesh","Rajkot",30000,1005),
+                            (7,"Bumarah","Baroda",78906,1005),
+                            (8,"Mahi","Rajkot",34200,1003),
+                            (9,"Gautam","Surat",34000,1004);
+															 
+select * from department;
+
+select * from employee;
+
+select emp_id,ename,city,dept_name from department,employee
+where department.dept_id=employee.dept_id;
+
+
