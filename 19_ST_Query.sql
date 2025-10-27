@@ -117,4 +117,11 @@ select * from employee;
 select emp_id,ename,city,dept_name from department,employee
 where department.dept_id=employee.dept_id;
 
+select sum(salary),dept_name  from department,employee
+where department.dept_id=employee.dept_id group by dept_name;
 
+select max(salary),dept_name  from department,employee
+where department.dept_id=employee.dept_id group by dept_name;
+
+select count(*),dept_name  from department,employee
+where department.dept_id=employee.dept_id group by dept_name;
