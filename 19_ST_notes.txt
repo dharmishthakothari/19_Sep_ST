@@ -406,9 +406,12 @@ group by employee - department - perticular department have how many employees
 								join 2 tables 
 
 
+27th Oct ....
 
 
-	
+	SQL : DDL - create , alter , drop 
+			DML - insert , update , delete
+			DQL - select - where ,in,between and ,or , and ,join ,like , 
 
 
 
@@ -419,7 +422,50 @@ group by employee - department - perticular department have how many employees
 
 2 Module - Manual Testing 
 	
-	
+	Testing ? - develop thayu hoy testing 
+			  - To check whther it's working properly or not
+
+			-Process , evaluate , check software as expected work ?
+			-not Single activity
+			- bugs , error , missing requirements 
+			- To check software to find indenend requirement ,bugs errors 
+			- ensure meets functional - non functional requirement 
+				functional requirements - features/functionality of application 
+				non-functional requimrenent - apart from function it's response time,security , performance ,easy to use 
+				Both are equally important
+
+Testing objectives :- 
+					Bug find 
+					requirement fulfill
+					Quality product
+
+When to start testing ?
+			As early as possible 
+			when requiremens are thr 
+			designing test scenario , test cases 
+
+when to stop ?
+			When all test cases coverage 
+			exit creteria meet 
+			business decision
+
+7 key Principle of Testing - guidelines 
+	1. Context Dependent 
+	2. Absence of error fallacy 
+	3. Testing shows presence of defect
+	4. Pasticide paradox - review - revised test cases periodically 
+	5. Defect Clusting  - group - most of defects are in group and it may be in small module so you have test all module equally 
+	6. Early Testing - As earlky as possible , review requirements - test cases 
+	7. Exhaustive testing is impossible  - each and every combination of input is not possible , Risk based 
+
+
+
+
+			
+					
+
+
+
 		
 
 		
@@ -430,6 +476,7 @@ group by employee - department - perticular department have how many employees
 	
 
 		
+
 
 
 
