@@ -459,7 +459,58 @@ when to stop ?
 	7. Exhaustive testing is impossible  - each and every combination of input is not possible , Risk based 
 
 
+29th Oct 
 
+-When to start-stop testing
+-Principles 
+  1. Early Testing
+ 2. Exhaustive testing
+3. Testing shows presence of defect
+4. Defect clustring
+5. Pastiside paradox 
+6. Testing is context depende
+7. Absence of error falacy
+
+Why Testing ? 
+		Quality 
+		Requirement
+		No defects 
+		user satishfaction 
+
+Lab task :
+       find real failure of any product - 5
+
+
+Error - Bug -defect - Failure
+
+
+Error - Human mistack - at time of software developmemnt - Developer , designer , tester 
+defect - tester finds - diffrence between exptected and actual result - tester during testing - 
+Bug - End user - during execution - system behave unexptectedly
+Failure - system crash - during execution-production - 
+
+Lab task :
+      find error,defect and failure of e-commerce website (5)
+
+
+Risk ? 
+		Possiblity of failure 
+		Project risk - Product Risk 
+
+
+		Project Failure ? - client requirement 
+				Reqirement miss/clear 
+				resouces 
+				money 
+	
+		product ? - MS-office , windows 
+				- requirement missing 
+				- testing improper 
+
+
+Hight Level Requirement - 
+		
+	 
 
 			
 					
@@ -476,6 +527,7 @@ when to stop ?
 	
 
 		
+
 
 
 
