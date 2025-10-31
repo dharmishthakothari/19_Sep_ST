@@ -510,10 +510,36 @@ Risk ?
 
 Hight Level Requirement - 
 		
-	 
+	 31th Oct 
 
+- Priciples , 
+- error -defect - bug -failure 
+Risk - Product - Project
+
+RISK based testing 
+- HRMS 
+     Attendance  - medium - Punchin - puchout , request  related test cases priorty 
+	 Salary calculation - HIGH - Test cases related excution , defect fix , working ,must all requirement , HRA-DA-
+	 Personal Information - Medium-Low
+
+
+RISK - 
+
+TEst Organization - to organize-structure-arrangement 
+
+Process ,structure 
 			
-					
+Test Organization & development Model (Agile,waterfall,Spiral,V Model)
+
+-Indepedent testing ? Tester/Testing who performed by indivisual tester who didn't written code.
+ - unbiased and it checks software with other mindset/ other inputs  .
+
+Roles 
+	- Test Manager/Test Leader
+	- TEster
+    - QA /QC
+
+
 
 
 
@@ -527,6 +553,7 @@ Hight Level Requirement -
 	
 
 		
+
 
 
 
