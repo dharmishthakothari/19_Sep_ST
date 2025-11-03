@@ -539,6 +539,25 @@ Roles
 	- TEster
     - QA /QC
 
+3rd Nov : 
+
+QA-QC 
+
+Quality Assurance vs Quality Control 
+- QA - process based - prevent defect - process 
+ QC -  Product oreinted - finding defect - Software 
+-QA - based omn process - documentation
+- QC - actual product 
+- QA - Test plan,test stretagy
+QC - manual testing - autoamtion 
+
+Testing vs debugging
+
+- find defect
+fix defect 
+
+-Tester
+Developer
 
 
 
@@ -553,6 +572,7 @@ Roles
 	
 
 		
+
 
 
 
