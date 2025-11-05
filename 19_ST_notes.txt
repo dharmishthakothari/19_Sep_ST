@@ -559,6 +559,27 @@ fix defect
 -Tester
 Developer
 
+5th Nov 
+
+HLR : High Level Requirements 
+ - Overall functions defined , which activity is going to done by system .
+- You as client want e-commerce application 
+     - online customers sale stationary item
+     - add to cart 
+     - payment - by cash on delivery 
+    -  order is taken from phone only 
+   - stock maintain 
+   - product add/updaet delete
+	- pen,pensil,notebook,.... price,quantity , detail ,photo
+    check avaibility 
+    reports - productwise , sales , monthly ,quately , yearly 
+
+High Level Requrement - document 
+Lab task : 
+
+Test scenario - what to test , not in detail
+              - condition
+
 
 
 
@@ -572,6 +593,7 @@ Developer
 	
 
 		
+
 
 
 
