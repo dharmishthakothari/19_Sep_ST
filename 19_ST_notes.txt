@@ -581,6 +581,9 @@ Test scenario - what to test , not in detail
               - condition
 
 
+Lab task : gmail email to - 
+            Bottol 
+            Fan
 
 
 		
@@ -593,6 +596,7 @@ Test scenario - what to test , not in detail
 	
 
 		
+
 
 
 
