@@ -585,8 +585,70 @@ Lab task : gmail email to -
             Bottol 
             Fan
 
+11th Nov
+   HLR
+   TEst scenario - object
 
+STLC - Software testing life cycle 
+SDTL 
+- Activities 
+REquirement -user story - Anaylsis
+Test plan 
+test case Desgining 
+test envirnment
+test data 
+test case execute 
+find defect/logging/report
+clouser
+
+-Phares -
+Requirement analysis , all the requirements must be clear ,identify 
+        making tracebility matrix 
+        will be on next phares
+
+TEst planning 
+      Test plan document is creating 
+      - Test Objective  (Quality , Software test , minimize defect,ensure requiremnet fulfill)
+      - Test strategy 
+      - What to test /Scope
+     - Not in Scope
+     - Resources time cost
+    - time limit
+    - scedule other activites 
+   - test deliverables ( test case designing - document) , test execution (logging pass/fail)
 		
+TEst case developement/design 
+    - we are indefiy the test cases 
+    - review /create scenario and test data 
+   - actual result expected result identify 
+
+Test enviroment 
+   - Software/tools setup
+  - system 
+
+Test exceution 
+ - test case execution
+ - thru prepared test data 
+ - log output 
+
+Clouser - 
+   All activiets are completed and we are documented 
+  What learn lesson 
+
+Lab Task : Differentiat SDLC vs STLC
+Download template for Test Plan (E-commerce website)
+
+- Tracebility Matrix 
+  Matrix - maps requirement into test cases 
+
+Requiremnet  		 tc1  tc2  tc3 tc4 tc5 tc6 ....
+Login				  Y   Y    N   N   Y    N
+Registration         Y    Y    Y   N   N    N
+Add to Cart          N    N    N   Y   Y    Y
+
+
+after 2 months changes 
+
 
 		
 	
@@ -596,6 +658,7 @@ Lab task : gmail email to -
 	
 
 		
+
 
 
 
