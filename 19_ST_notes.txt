@@ -649,15 +649,61 @@ Add to Cart          N    N    N   Y   Y    Y
 
 after 2 months changes 
 
+12th Nov 
+ - Software Test Life Cycle - STLC
+ REquirement Analysis
+Test Planning
+TEst case design
+Enviromnent setup-execution
 
-		
-	
+
+SDLC - STLC
+1. all about Development 
+	all abouting testing phares
+
+2. pharses 
+
+3. superset of STLC
+   subset
+
+4. Deliverables - software product,SRS
+                - Test Plan,cases , defect report
+
+
+TEst Plan vs Test Strategy 
+
+- QA QC 
+- SDLC-STLC
+- Test Plan - Test Strategy
+-Test scenario - Test cases
+-Testing vs Debugging
+
+Test cases - 
+- Test case design /Function test cases/Integration/Performance/UI test case/System Test case/
+- design test cases based on User story 
+- First TEst scenarioes and then test cases
+- Review Test case 
+- Execution of test cases 
+- logging defect 
+
+
+1. Document
+2. How to test 
+3. detailing of test scenario/condition
+4. Designing and execution
+5. test data prepare
+6. Tester 
+
+
+
+Lab task : Test scenrio of careercenter (dashboard,assignment,assessmnet) 
 			
 
 		
 	
 
 		
+
 
 
 
