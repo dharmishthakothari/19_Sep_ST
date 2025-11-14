@@ -698,11 +698,66 @@ Test cases -
 
 Lab task : Test scenrio of careercenter (dashboard,assignment,assessmnet) 
 			
+14th Nov
+
+Which testing you heard about : Functional , Regression , System ,UI/UX , Performance , integration , Business flow , End-to -End testing , Corner test cases , black box,white box,gray box
+
+Test Levels : V Model 
+1. Unit testing	-	Generally Developer does, The module/program/componenet developed by developers and 			module/program/componenet - 	checked by developer .
+								Some tools/library/framework 
+								Checking componenets seprately.
+								
+
+
+2. Integration Testing		- we are integreating 2 modules and checking wherether they are working together it's integration testing
+							- Developers/Tester 
+							1. Componenets integration Testing  - Unit combine/integrating
+							2. System Integration testing  - system combine and we checked as they are working to 									gather or not After System testing we are doing system integration testing.
+
+
+							Top -down approach - if upper module complete and lower is not then we are creating stub (dummay module) to check with upper module 
+							Botton up approach - if if upper mdule is not completed so we are creating driver/dummy to check bottom module 
+
+
+3. System Testing		- 	Whole system / all componenets are integrated and communicated/working properly or not.
+							Indendent tester ,QA
+							Functional - non functional testing 
+
+4. Acceptanec testing	-	Where system is accepatable or not. all requirements are matched/fulfill
+							acceptable criteria should be matched.
+
+						-	client-Developers/testing 
+						- Alpha and Beta 
+
+
+
+Scenario Based Interview Questions 
+2. A customer is unable to add products to the cart. What could be the cause, and how would you verify it?
+
+3. The payment gateway is not working, and the customer cannot make a purchase. How would you investigate and resolve the issue?
+
+4. The product page is not loading correctly for certain customers. What steps would you take to diagnose this?
+
+
+5. A customer reports that they are seeing outdated product prices. How would you go about diagnosing and fixing this?
+
+6. A customer reports that the website is very slow while browsing certain categories. What kind of performance testing or diagnostics would you perform?
+
+7. A user is reporting an issue with their address not being accepted during checkout. How would you troubleshoot this?
+
+8. A customer is unable to find a specific product on the website despite it being available in the backend. What steps would you take to investigate?
+
+9. A customer is complaining that they received an incorrect product or a damaged item. How would you approach troubleshooting this issue?
+
+
+
+
 
 		
 	
 
 		
+
 
 
 
