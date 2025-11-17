@@ -749,6 +749,10 @@ Scenario Based Interview Questions
 
 9. A customer is complaining that they received an incorrect product or a damaged item. How would you approach troubleshooting this issue?
 
+17th Nov
+
+Test scenarios
+
 
 
 
@@ -757,6 +761,7 @@ Scenario Based Interview Questions
 	
 
 		
+
 
 
 
