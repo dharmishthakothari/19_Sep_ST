@@ -753,6 +753,16 @@ Scenario Based Interview Questions
 
 Test scenarios
 
+19th Nov
+ - Detailing of test scenario
+- How to test
+- test case document that specifies how the condition should be test
+- there are certain fields of test cases 
+
+
+pass/fail :---- Actual and Expected Difference 
+Postive and Negative :--- When you are checking with valid data positive and if you check with invalid data then its invalid data.
+
 
 
 
@@ -761,6 +771,7 @@ Test scenarios
 	
 
 		
+
 
 
 
