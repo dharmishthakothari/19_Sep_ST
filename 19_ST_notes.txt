@@ -763,6 +763,56 @@ Test scenarios
 pass/fail :---- Actual and Expected Difference 
 Postive and Negative :--- When you are checking with valid data positive and if you check with invalid data then its invalid data.
 
+21st Nov
+- Functional and Non-Functional ? 
+
+Functional - What system should perform is Functional requirement - checking this requirement is functiona testing
+non-functional - How system should work is non functional requirement - checking this requirement is non functional \
+
+E-commerce - 
+    Functional testing - successfull Login , Product , Add to Cart
+    Non functional - Add to cart how quick is givem e responce , How login is display ,How error msgs are displayed
+					 Performance, security , load ,compability (browser,platform,device) ,Usability testing
+
+
+Test desgining techquie -
+Black box Testing - we don't know internal structure and we are doing/performaing testing
+ Specalized Testers is there to do black box testing
+
+Technique ->
+1. BVA Boundry value analysis - age must be between 25-100  BVA - 24,25,100,101
+valid data - 25-100 check with 25 & 100 
+invalid -<24 - 24,25
+invalid ->100 - 100,101
+
+2. EP Equivalent partitition - age must be between 25-100 
+invalid - <24 - randomly value and check age field 21 ,-12,5
+valid - 25-100 - randomly value and 28 
+invalid >100 - randomly taking value 156 , 200 ,1000
+
+
+3. Decision Table testing
+
+-Based on input condition take a decision 
+truth table 
+Value1		value2			and		or
+1			1				1		1
+1			0				0		1
+0			1				0		1
+0			0				0		0
+
+
+Login 		Product_add			Add_to_cart		Search
+1			1					1				1
+0			1					1				1
+1			0					0				1
+0			0					0				1
+
+- data flow 
+
+
+
+
 
 
 
@@ -771,6 +821,7 @@ Postive and Negative :--- When you are checking with valid data positive and if 
 	
 
 		
+
 
 
 
