@@ -810,6 +810,35 @@ Login 		Product_add			Add_to_cart		Search
 
 - data flow 
 
+26th Nov
+ - Black Box testing technique
+     -Boubdry Value Analysis
+     - Disicion Table
+     -Equivelent Partititon
+
+White Box test technique
+    - Internal structure generally developer 
+    - unit testing 
+    - Code coverage
+    - path /condition coverage
+  Techniques 
+    - Statement coverage
+    - Branch Coverage 
+    - Decision Coverage
+   - Data flow
+Gray Box 
+
+Experienced based Testing
+    - Skill tester
+    - based on knowledge or experieced 
+    - Time limit
+    - Randmaly 
+   - Previousely project based on expereince 
+   - Not Documented 
+   - 
+
+Lab task : Ad hoc , Exploratory , Error Gusing
+
 
 
 
@@ -821,6 +850,7 @@ Login 		Product_add			Add_to_cart		Search
 	
 
 		
+
 
 
 
